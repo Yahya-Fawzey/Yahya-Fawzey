@@ -48,7 +48,7 @@ Expected Graduation: June 2027
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/Yahya-Fawzey](https://www.linkedin.com/in/yehya-fawzey-3954a731a/))
+- [LinkedIn](https://www.linkedin.com/in/yehya-fawzey-3954a731a/)
 - [GitHub](https://github.com/Yahya-Fawzey)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just want to chat about technology.
