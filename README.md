@@ -43,7 +43,7 @@ Expected Graduation: June 2027
 
 ## Skills
 
-- **Programming:** Java, Python, R
+- **Programming:** Java, Python, R, SQL
 - **Languages:** Arabic, English
 
 ## Connect with Me
