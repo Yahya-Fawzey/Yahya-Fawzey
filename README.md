@@ -8,7 +8,6 @@ I'm a committed and resourceful second-year computer science student with a stro
 - 👯 I’m looking to collaborate on open source projects and hackathons.
 - 💬 Ask me about data structures, algorithms, and object-oriented programming.
 - 📫 How to reach me: [yahyafawzey530@gmail.com](mailto:yahyafawzey530@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving programming challenges in my free time.
 
 ## Education
