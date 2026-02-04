@@ -46,18 +46,23 @@ Alexandria, Egypt
   - Inheritance
 - Simulated real-world system behavior with full CRUD functionality.
 
-### 📊 Electricity Grid Analysis
-**Repository:** https://github.com/Yahya-Fawzey/Electricity_Grid_Analysis  
-Analyzed hourly electricity grid data from three major U.S. grid operators (CISO, ERCO, and PJM) to identify consumption patterns, inter-regional dynamics, and forecast performance. :contentReference[oaicite:1]{index=1}
+### ⚡ Electricity Grid Analysis
+**Repository:** https://github.com/Yahya-Fawzey/Electricity_Grid_Analysis
 
-**Highlights:**
-- Ingested and processed **700,000+ records** from the U.S. Energy Information Administration (EIA) API. :contentReference[oaicite:2]{index=2}
-- Addressed real-world challenges like **API pagination** and **timezone conversions** for accurate time-series analysis. :contentReference[oaicite:3]{index=3}
-- Performed exploratory data analysis (EDA) to uncover:
-  - Daily and seasonal demand patterns  
-  - Peak loads across regions  
-  - Comparative analysis of forecast accuracy (MAPE) for each grid. :contentReference[oaicite:4]{index=4}
-- Used Python tools including **Pandas**, **Matplotlib**, **Seaborn**, and **Requests**. :contentReference[oaicite:5]{index=5}
+An end-to-end data analysis project focused on understanding electricity demand patterns across major U.S. power grids using large-scale, real-world time-series data.
+
+**Key Contributions:**
+- Collected and processed **700,000+ hourly records** from the U.S. Energy Information Administration (EIA) API.
+- Handled real-world data engineering challenges such as **API pagination**, **missing values**, and **timezone normalization**.
+- Performed in-depth exploratory data analysis to identify:
+  - Daily and seasonal demand trends  
+  - Regional peak load behavior  
+  - Differences between actual demand and forecasted values
+- Evaluated forecast performance using **MAPE** to compare grid reliability.
+- Built visualizations to clearly communicate insights and patterns.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Requests
+
 
 ---
 
