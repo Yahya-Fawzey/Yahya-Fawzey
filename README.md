@@ -12,9 +12,8 @@ I enjoy working with real datasets, asking *why* models behave the way they do, 
 - 🧠 Strong believer in metrics > accuracy hype  
 - 🤝 Open to collaboration on ML-driven projects
 
-📫 *How to reach me:* 
+📫 How to reach me: 
 [yahyafawzey530@gmail.com](mailto:yahyafawzey530@gmail.com)
-
 [LinkedIn](https://www.linkedin.com/in/yahya-fawzey-3954a731a/)
 
 ---
