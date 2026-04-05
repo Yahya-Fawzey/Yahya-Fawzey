@@ -13,6 +13,7 @@ I enjoy working with real datasets, asking *why* models behave the way they do, 
 - 🤝 Open to collaboration on ML-driven projects
 
 📫 **How to reach me:** [yahyafawzey530@gmail.com](mailto:yahyafawzey530@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yahya-fawzey-3954a731a/)
 
 ---
 
@@ -28,6 +29,7 @@ An end-to-end machine learning solution for credit risk assessment, featuring in
 - Designed UI features, including an applicant deep-dive dropdown and key risk indicators, for granular data analysis.
 
 **Tech Stack:** Python, XGBoost, Streamlit, Machine Learning
+
 
 ### ⚡ Electricity Grid Analysis
 **Repository:** https://github.com/Yahya-Fawzey/Electricity_Grid_Analysis
