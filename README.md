@@ -16,53 +16,30 @@ I enjoy working with real datasets, asking *why* models behave the way they do, 
 
 ---
 
-## Education
-
-**Faculty of Computers and Data Science, Alexandria University**  
-**Major:** Computing & Data Science  
-Alexandria, Egypt  
-**Expected Graduation:** June 2027  
-
-**Relevant Coursework:**
-- Data Structures & Algorithms  
-- Probability & Statistics  
-- Machine Learning  
-- Object-Oriented Programming  
-- Computer Organization & Programming  
-
----
-
 ## Projects
 
-### 🏦 Banking System with GUI (Team Project)
-- Built a user-friendly banking system with a graphical interface.
-- Applied OOP principles and collaborated in a team-based development environment.
-- Focused on clean structure, usability, and maintainability.
+### 🛡️ VaultGuard Risk Intelligence
+An end-to-end machine learning solution for credit risk assessment, featuring interactive client and developer pipelines.
 
-### 🛒 Shopping System with GUI (Solo Project)
-- Designed and implemented a complete shopping system using:
-  - Encapsulation
-  - Abstraction
-  - Inheritance
-- Simulated real-world system behavior with full CRUD functionality.
+**Key Contributions:**
+- Developed a predictive model using **XGBoost**, achieving a strong **ROC-AUC score of 0.87**.
+- Built an interactive web application using **Streamlit** for real-time risk analysis and evaluation.
+- Implemented a 3-tier risk classification system (Low, Medium, High) that generates actionable recommendations based on applicant profiles.
+- Designed UI features, including an applicant deep-dive dropdown and key risk indicators, for granular data analysis.
+
+**Tech Stack:** Python, XGBoost, Streamlit, Machine Learning
 
 ### ⚡ Electricity Grid Analysis
 **Repository:** https://github.com/Yahya-Fawzey/Electricity_Grid_Analysis
 
-An end-to-end data analysis project focused on understanding electricity demand patterns across major U.S. power grids using large-scale, real-world time-series data.
+An end-to-end data analysis project analyzing electricity demand patterns across major U.S. power grids.
 
 **Key Contributions:**
-- Collected and processed **700,000+ hourly records** from the U.S. Energy Information Administration (EIA) API.
-- Handled real-world data engineering challenges such as **API pagination**, **missing values**, and **timezone normalization**.
-- Performed in-depth exploratory data analysis to identify:
-  - Daily and seasonal demand trends  
-  - Regional peak load behavior  
-  - Differences between actual demand and forecasted values
-- Evaluated forecast performance using **MAPE** to compare grid reliability.
-- Built visualizations to clearly communicate insights and patterns.
+- Extracted and cleaned **700,000+ hourly records** from the EIA API, handling pagination, missing values, and timezones.
+- Conducted in-depth exploratory data analysis to identify seasonal trends, peak loads, and demand vs. forecast discrepancies.
+- Evaluated grid reliability using **MAPE** and built data visualizations to communicate key insights.
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Requests
-
 
 ---
 
@@ -86,14 +63,6 @@ An end-to-end data analysis project focused on understanding electricity demand 
 ### Languages
 - Arabic (Native)
 - English (Fluent)
-
----
-
-## Activities & Learning
-
-- Continuous self-learning through ML-focused courses and hands-on projects.
-- Active participation in academic and technical communities.
-- Mentored junior students in programming and problem-solving concepts.
 
 ---
 
