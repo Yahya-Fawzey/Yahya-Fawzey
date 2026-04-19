@@ -23,6 +23,8 @@ I enjoy working with real datasets, asking *why* models behave the way they do, 
 ## Projects
 
 ### 🛡️ VaultGuard Risk Intelligence
+**Repository:** https://github.com/Yahya-Fawzey/VaultGuard-Risk-Intelligence
+
 An end-to-end machine learning solution for credit risk assessment, featuring interactive client and developer pipelines.
 
 **Key Contributions:**
